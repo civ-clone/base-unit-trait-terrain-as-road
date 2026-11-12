@@ -1,0 +1,4 @@
+import UnitTrait from '@civ-clone/core-unit/UnitTrait';
+/** A unit type with this trait moves over any terrain as if along a road. */
+export declare class TerrainAsRoad extends UnitTrait {}
+export default TerrainAsRoad;
